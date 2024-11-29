@@ -17,3 +17,5 @@
    - DELETE /sprints/:id : Supprimer un sprint et tout ce qui lui est associé.
 
 5. Spécifications fonctionnelles : Décrivez les user stories avec les règles métier associées (par exemple, les contrôles à mettre en place côté API).
+
+6. User stories : Décrivez les user stories avec les règles métier associées.
