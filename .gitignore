@@ -2,3 +2,6 @@
 /Conception/*
 !Conception/projet-uml.vpp
 !Conception/*.png
+
+# Fichiers temporaires
+*.tmp
