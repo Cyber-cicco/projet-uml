@@ -1,6 +1,6 @@
 # Conception d'une API REST pour une plateforme de gestion de projets collaboratifs
 
-## Étapes clés
+## Étapes de la conception
 
 1. Diagramme de cas d'utilisation : Identifiez les acteurs utilisateurs, administrateurs, etc.) et les cas d'utilisation (création de compte, gestion des équipes, etc.).
 
@@ -19,3 +19,7 @@
 5. Spécifications fonctionnelles : Décrivez les user stories avec les règles métier associées (par exemple, les contrôles à mettre en place côté API).
 
 6. User stories : Décrivez les user stories avec les règles métier associées.
+
+## Liens
+
+- [Diagramme de classes](https://app.diagrams.net/#G1mub8JqfYXf2IUdUT_JFb5R2nFktq1T6k#%7B"pageId"%3A"A9g6DMLirYFg1_IeowLj"%7D)
